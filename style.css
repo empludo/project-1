@@ -1,6 +1,8 @@
 
 
-
+button{
+	/*font-family:  'Aclonica', sans-serif;*/
+}
 
 img{
 
@@ -17,6 +19,7 @@ body{
 	background-image:url("./images/oldpaper.jpg"); 
 	background-attachment: fixed;
 	background-position: top;
+	font-family:  'Aclonica', sans-serif;
 }
 
 .container{
@@ -81,6 +84,7 @@ body{
 	margin-left: 00px;
 	margin-top: 10px;
 	font-size: 24px;
+	font-family:  'Aclonica', sans-serif;
 }
 
 #startscreen{
